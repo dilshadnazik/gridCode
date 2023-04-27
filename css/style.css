@@ -1,0 +1,105 @@
+.box{
+    background-color: #08083a; 
+    color: white;
+    margin: 3px;
+    
+    border-radius: 10px;
+}
+
+.box-secondheading{
+    font-size: 10px;
+}
+/* .p1{
+    margin-left: 50pt;
+} */
+
+.box-thirdheading{
+    font-weight: bolder;
+    font-size: 11px;
+}
+
+.box1{
+    background-color: white; 
+    color: black;
+    margin: 3px;
+}
+
+.border {
+    /* display: grid;
+    grid-template-columns: auto auto auto; */
+    
+    grid-gap: 10px;
+    background-color: #08083a;
+    padding: 10px;
+    
+  }
+
+ 
+.div2 {
+     width: 120px;
+     height: 100px;
+     padding: 50px;
+     border: 1px solid gray;
+    }
+
+
+    .pill-btn{
+        height: 30px;
+        /* float: right; */
+        line-height: 25px;
+        background: #80d0d3;
+        padding: 0px 10px;
+        border-radius: 999em;
+        text-decoration: none;
+        color: #fff;
+        font-size: 14px;
+        font-weight: 600;
+      }
+      .pill-btn:hover{
+        background: #7A9BFF;
+      }
+
+      .border1{
+        border: 1px solid #e3dbdb;
+        margin: 5px;
+        margin-left: 0px;
+        /* margin-right: 0px; */
+      }
+
+      .border2{
+        border: 1px solid #e3dbdb;
+        margin: 5px;
+        margin-right: 0px;
+      }
+
+
+/* .lines::after, .lines::before{
+    content: '';
+    position: absolute;
+    margin: auto;
+    height: 2px;
+    background: #08083a;
+    width: 45%;
+    top: 35%;
+}
+  
+.lines::after{
+    left: 0
+}
+
+.lines::before{
+    right: 0
+}
+
+.circle{
+    height: 10px;
+    width: 10px;
+    border: 2px solid;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: 5px; 
+    border-radius: 50%;
+    background: #08083a;
+} */
